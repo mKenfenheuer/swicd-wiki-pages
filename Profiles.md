@@ -42,6 +42,8 @@ Select inverted if you would like the inputs reversed (left is right, up is down
 * Left Trigger
 * Right Trigger
 
+![Steam Deck Axis Buttons](/images/Steam%20Deck%20Axis.png)
+
 **Xbox Controller Buttons with Axis:**
 * Left Thumbstick (left/right) 
 * Left Thumbstick (up/down)
