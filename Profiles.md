@@ -8,6 +8,18 @@ Lizard mode allows the Steam Deck Controller to fall back to its lizard brain (m
 ## Axis Mappings
 Axis mappings allow you to assign control to any Steam Deck hardware button with an axis to any Xbox controller axis button.
 
+### Hardware Button
+The physical button on the Steam Deck that you would like to assign virtual input to.
+
+### Emulated Axis
+The virtual axis you would like emulated for the hardware button.
+
+### Activation Button
+Assigns another button that must be pressed to activate the emulation.
+
+### Inverted
+Select inverted if you would like the inputs reversed (left is right, up is down, etc.) - useful if game does not support inversion natively.
+
 **Steam Deck Hardware Buttons with Axis:**
 * Left Thumbstick (left/right) 
 * Left Thumbstick (up/down)
